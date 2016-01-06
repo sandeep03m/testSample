@@ -6,4 +6,4 @@ Click Build.bat file
 
 or open a terminal from the project folder and perform a
 
-mnvn test
+mvn test
